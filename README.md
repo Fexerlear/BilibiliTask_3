@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Bilibili助手 (兼容性修复版)</h1>
 
-## ⚠️ 重要说明
+## ⚠️⚠️ 重要说明
 
 **本项目是 [srcrs/BilibiliTask](https://github.com/srcrs/BilibiliTask) 的备份和兼容性修复版本**
 
